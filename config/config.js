@@ -81,7 +81,9 @@ var example = {
         "owner": "keyvanfatehi",
         "repo": "dew",
         "auth": {
-          "type": "https"
+          "type": "https",
+          "pubkey": "",
+          "privkey": ""
         },
         "secret": ""
       }
